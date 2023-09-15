@@ -24,7 +24,19 @@ export default function Balance() {
 }
 
 const styles = StyleSheet.create({
-    container: {},
+    container: {
+        backgroundColor: "#FFF",
+        flexDirection: "row",
+        justifyContent: "space-between",
+        paddingStart: 18,
+        paddingEnd: 18,
+        marginTop: -24,
+        marginStart: 14,
+        marginEnd14,
+        borderRadius: 4,
+        paddingTop: 22,
+        paddingBottom: 22,
+    },
     item: {},
     itemTitle: {},
     currencySymbol: {},
